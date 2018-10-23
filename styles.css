@@ -1,0 +1,9 @@
+header{
+    background-color: blue
+}
+
+
+main h1 {color: blueviolet}
+main li :first-of-type{color: chartreuse}
+
+    main h1:hover{color: blue} 
